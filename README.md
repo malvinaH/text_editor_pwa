@@ -15,7 +15,7 @@ The application is a web text editor where the user can create notes or code sni
 - [Tests](#tests)
 - [Questions](#questions)
 
-  ## Installation
+## Installation
 
     This text editor require a number of methods and store data to an IndexedDB database to be builded up.
 
@@ -37,11 +37,11 @@ The application is a web text editor where the user can create notes or code sni
     The required modules are bundled in the package.json file and at CLI or integrated terminal type in npm run install, the modules will be installed.
 
 
-  ## Usage
+ ## Usage
 
 
 
-  ## License
+## License
 
 This application uses the MIT.
 
