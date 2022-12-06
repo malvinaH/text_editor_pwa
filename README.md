@@ -51,7 +51,7 @@ If you would liek to contribure please for the repo or clone it on your local ma
 
   ## Tests
 
-Please visit the heroku link.
+Please visit the heroku link : https://pacific-plateau-82855.herokuapp.com/
 
   ## Questions
 
